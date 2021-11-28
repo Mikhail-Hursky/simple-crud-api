@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Misha",
+    "age": 44,
+    "hobbies": ["Programing"]
+  },
+  {
+    "id": "2",
+    "name": "Nastya",
+    "age": 33,
+    "hobbies": []
+  },
+  {
+    "id": "3",
+    "name": "Vasya",
+    "age": 23,
+    "hobbies": ["Travel"]
+  },
+  {
+    "id": "4",
+    "name": "Katya",
+    "age": 12,
+    "hobbies": ["Bloger"]
+  },
+  {
+    "id": "5",
+    "name": "Alina",
+    "age": 25,
+    "hobbies": ["Insta-Bloger"]
+  }
+]
